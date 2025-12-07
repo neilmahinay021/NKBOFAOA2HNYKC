@@ -1,0 +1,1 @@
+Create a folder, choose the name (a global name is better so you don't get confused) then place the modded exe inside the folder and the launcher will detect it.
